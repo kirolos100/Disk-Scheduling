@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685630533 source:c:\users\lapshop\desktop\assignment 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
